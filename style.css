@@ -1,0 +1,83 @@
+        .greeting h1{
+            font-family: 'Raleway', sans-serif;
+            font-weight: lighter;
+            font-size: 100px;
+            text-align: center;
+            margin : 0;
+            text-shadow: 2px 2px rgb(102, 100, 131);
+        }
+        .greeting h2{
+            font-family: 'Raleway', sans-serif;
+            font-weight: lighter;
+            font-size: 35px;
+            text-align: center;
+            margin : 0;
+            text-shadow: 2px 2px rgb(102, 100, 131);
+        }
+        .description h4{
+            font-family: 'Raleway', sans-serif;
+            font-weight: lighter;
+            font-size: 35px;
+            text-align: center;
+            margin : 0;
+            text-shadow: 1px 1px rgb(102, 100, 131);
+        }
+        .description li{
+            font-family: 'Raleway', sans-serif;
+            font-weight: lighter;
+            font-size: 30px;
+            margin-bottom: 12;
+        }
+        .topLeft img{
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            left:0;
+            top:0;
+        }
+        .topRight img{
+            width: 100px;
+            height: 100px;
+            position: absolute;
+            right:0;
+            top:0;
+        }
+        #left-container{
+            width: 45%;
+            height:500px;
+            float: left;
+            margin-left:2.5%;
+            margin-right:2.5%;
+            margin-top: 50px;
+            background-color: rgb(23, 230, 212);
+            border-radius: 25px;
+            border-style : dashed;
+            border-color: rgb(38, 25, 224);
+        }
+        #header-container {
+            border-radius: 25px;
+            width:80%;
+            height: 20%;
+            min-width: 800px;
+            margin:0px auto;
+            padding-top:1%;
+            background-color: rgb(240, 240, 240);
+            padding-bottom: 5px;
+            border-style: solid;
+            border-color: rgb(177, 41, 41);
+            background-color: rgb(154, 220, 236);
+        }
+        #right-container{
+            width: 45%;
+            height:500px;
+            float: right;
+            margin-left:auto;
+            margin-right:auto;
+            margin-top: 50px;
+            background-color: rgb(23, 230, 212);
+            border-radius: 25px;
+            border-style : dashed;
+            border-color: rgb(38, 25, 224)
+        }
+
+        
